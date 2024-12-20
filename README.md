@@ -1,4 +1,4 @@
-# film-box-office-data
-Прогнозирование кассовых сборов фильма
+# students-depression-data
+Прогнозирование возможности возникновения депрессии у студентов
  
-Данные взяты с https://www.kaggle.com/datasets/fernandogarciah24/top-1000-imdb-dataset 
+Данные взяты с https://www.kaggle.com/datasets/hopesb/student-depression-dataset
